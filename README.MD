@@ -7,6 +7,7 @@ This monorepo contains a collection of template applications and examples for th
 ```
 sonic-templates-monorepo/
 ├── wallet-adapter-example/    # Example implementation of SonicSVM wallet adapter
+├── privy-sonic/    # Example implementation of Privy Auth on SonicSVM
 ```
 
 ## 🚀 Available Templates
@@ -20,7 +21,7 @@ A Next.js-based example showing how to integrate SonicSVM wallet functionality i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sonic-templates-monorepo.git
+git clone https://github.com/mirrorworld-universe/sonic-templates-monorepo.git
 cd sonic-templates-monorepo
 ```
 
